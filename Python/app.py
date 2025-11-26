@@ -96,3 +96,44 @@
 # Sort the list and print it
 
 # 7️⃣ Add all numbers in the list (use a loop, don’t use sum())
+
+# 1. 
+
+# fiveMovies = ["Movie1", "Movie2", "Movie3", "Movie4", "Movie5"]
+
+# for movie in fiveMovies:
+#     print(movie)
+
+# 2. 
+
+# fiveMovies = ["Movie1", "Movie2", "Movie3", "Movie4", "Movie5"]
+
+# fiveMovies[2] = "EditedMovie3"
+
+# for movie in fiveMovies:
+#     print(movie)
+
+
+# 3. Add new movie at the end of the List
+# fiveMovies = ["Movie1", "Movie2", "Movie3", "Movie4", "Movie5"]
+
+# fiveMovies.append("Movie6")
+
+# for movie in fiveMovies:
+#     print(movie)
+
+# 4.
+
+# fiveMovies = ["Movie1", "Movie2", "Movie3", "Movie4", "Movie5"]
+
+# addedMovie = fiveMovies.pop(0)
+
+# for movie in fiveMovies:
+#     print(movie)
+
+# 5. 
+# fiveMovies = ["Movie1", "Movie2", "Movie3", "Movie4", "Movie5"]
+
+# totalLength = len(fiveMovies)
+
+# print(totalLength)
