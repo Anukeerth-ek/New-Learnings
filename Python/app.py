@@ -74,3 +74,25 @@
 # 4. This will give each value in a string
 # for fruit in fruits[0]:
 #     print(fruit)
+
+# 6. ___________List and Dictionaries_________
+
+# Beginner Level
+
+# 1️⃣ Create a list of your 5 favorite movies and print it
+# 2️⃣ Replace the 3rd movie with another one
+# 3️⃣ Add a new movie to the end
+# 4️⃣ Remove the 1st movie
+# 5️⃣ Print the length of the list
+
+# Intermediate Level
+
+# 6️⃣ Create a list: numbers = [4, 7, 1, 9, 2]
+
+# Print the largest number
+
+# Print the smallest number
+
+# Sort the list and print it
+
+# 7️⃣ Add all numbers in the list (use a loop, don’t use sum())
