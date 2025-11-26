@@ -137,3 +137,16 @@
 # totalLength = len(fiveMovies)
 
 # print(totalLength)
+
+# 6.
+
+# numbers = [4, 7, 1, 9, 2]
+
+# largestNumber = max(numbers)
+
+# print(largestNumber)
+
+
+# 7.
+
+
