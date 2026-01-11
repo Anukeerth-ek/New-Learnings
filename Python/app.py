@@ -1,4 +1,4 @@
-# 1.________ Variable________
+# # 1.________ Variable________
 
 # name = "Anukeerth EK"
 
@@ -9,7 +9,7 @@
 
 # print("Sum is",num1+num2)
 
-# 2.________ Data Types________
+# # 2.________ Data Types________
 # String
 # Number
 # Boolean
